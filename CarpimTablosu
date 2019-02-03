@@ -1,0 +1,6 @@
+for k in range(1,11):
+    liste=[]
+    for i in range(1,11):
+        a=i*k
+        liste.append(a)
+    print(liste)
